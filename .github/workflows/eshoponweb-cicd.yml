@@ -9,7 +9,7 @@ env:
   LOCATION: japaneast
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: c94a9e2d-79db-441a-bce0-0df580f83b35
-  WEBAPP-NAME: webapp-az400-eshoponweb-handson5-a
+  WEBAPP-NAME: webapp-az400-eshoponweb-handson5-ao
 
 
 jobs:
